@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 👋 Hi, I’m @thinhntr
+- 👀 I’m interested in AI/Deep learning
+- 🌱 I’m currently learning Computer Science
+- 📫 You can contact me at thinhntr@gmail.com
+
 <!--
 **thinhntr/thinhntr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
